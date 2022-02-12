@@ -69,3 +69,7 @@ STEP 11: To start the consumer:
 kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic mytopic 
 (or)
 kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic mytopic --from-beginning
+
+
+Reference:
+1. https://www.goavega.com/install-apache-kafka-on-windows/
