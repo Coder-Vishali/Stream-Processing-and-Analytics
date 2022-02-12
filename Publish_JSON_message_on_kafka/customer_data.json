@@ -1,0 +1,14 @@
+{
+  "customers": 
+    [
+      {"cust_id": 130, "income": 40, "age": 33, "points": 23.97}, 
+      {"cust_id": 157, "income": 20, "age": 66, "points": 24.44}, 
+      {"cust_id": 83, "income": 60, "age": 64, "points": 22.97}, 
+      {"cust_id": 34, "income": 70, "age": 64, "points": 22.56}, 
+      {"cust_id": 10, "income": 10, "age": 65, "points": 22.84}, 
+      {"cust_id": 157, "income": 30, "age": 62, "points": 22.56}, 
+      {"cust_id": 84, "income": 30, "age": 66, "points": 23.53}, 
+      {"cust_id": 37, "income": 20, "age": 61, "points": 24.88}, 
+      {"cust_id": 127, "income": 50, "age": 69, "points": 22.75}
+    ]
+}
