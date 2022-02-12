@@ -73,3 +73,4 @@ kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic mytopic --f
 
 Reference:
 1. https://www.goavega.com/install-apache-kafka-on-windows/
+2. https://kafka.apache.org/quickstart
