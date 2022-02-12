@@ -1,6 +1,6 @@
-Setup and install Apache Kafka on Windows:
+# Setup and install Apache Kafka on Windows:
 
-# 1. Install Java 8 SDK:
+<h3> 1. Install Java 8 SDK:</h3>
 
 Make sure you installed JAVA 8 SDK on your system.  You can use chocolatey ( https://chocolatey.org/ ) windows package manager for the same.
 
