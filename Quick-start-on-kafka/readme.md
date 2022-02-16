@@ -88,7 +88,7 @@ kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic mytopic --f
 
 If you want to delete the topic:
 
-kafka-topic --zookeeper localhost:2181 --topic mytopic --delete
+kafka-topics.bat --zookeeper localhost:2181 --topic mytopic --delete
 
 ## Reference:
 
