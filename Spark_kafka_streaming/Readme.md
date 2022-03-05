@@ -76,7 +76,7 @@ PYSPARK_PYTHON = C:\Users\user\Anaconda3\python.exe
 ## STEP 10: Start Zookeeper
 Now time to start zookeeper from command prompt. Change your directory to bin\windows and execute zookeeper-server-start.bat command with config/zookeeper.Properties configuration file.
 
-To start the zookeeper:
+**To start the zookeeper:**
 
 zookeeper-server-start.bat ../../config/zookeeper.properties
 
@@ -85,7 +85,7 @@ And make sure zookeeper started successfully
 ## STEP 11: Start Apache Kafka
 Finally time to start Apache Kafka from command prompt. Run kafka-server-start.bat command with kafka config/server.properties configuration file.
 
-To start the Apache Kafka:
+**To start the Apache Kafka:**
 
 kafka-server-start.bat ../../config/server.properties
 
@@ -116,7 +116,7 @@ spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.0.3 spark_s
 ## STEP 17: To start the producer
 python kafka_producer.py
 
-Reference:
+## Reference:
 1. Code reference:
     https://www.youtube.com/watch?v=fFAZi-3AJ7I
 2. Streaming programming guide for spark:
